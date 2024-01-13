@@ -1,6 +1,6 @@
 -- Schema info
 Schema.name = "Division II"
-Schema.author = "Butt Aches"
+Schema.author = "RVVZ"
 Schema.description = "An Open World, Survival, RPG"
 
 Schema.build = "Division 2"
@@ -36,7 +36,7 @@ ixConfigSet("weaponRaiseTime", 0.2)
 ixConfigSet("walkSpeed", 100)
 ixConfigSet("runSpeed", 200)
 ixConfigSet("communityText", "Discord")
-ixConfigSet("communityURL", "https://npcs.gg/discord")
+ixConfigSet("communityURL", "")
 ixConfigSet("music", "rp_ravenholm/music/the path integral.mp3")
 ixConfigSet("experimentalModeVC", true)
 ixConfigSet("radioVCVolume", 50)

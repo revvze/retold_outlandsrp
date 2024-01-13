@@ -1,7 +1,7 @@
 "npcs_outlandsrp"
 {
 	"base" 			"helix"
-	"title" 		"NPCS: Outlands Roleplay"
-	"author" 		"Butt Aches"
+	"title" 		"Outlands Roleplay"
+	"author" 		"RVVZ & Riggs"
 	"menusystem"	"1"
 }
