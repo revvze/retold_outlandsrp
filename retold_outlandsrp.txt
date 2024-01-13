@@ -1,0 +1,7 @@
+"npcs_outlandsrp"
+{
+	"base" 			"helix"
+	"title" 		"NPCS: Outlands Roleplay"
+	"author" 		"Butt Aches"
+	"menusystem"	"1"
+}
